@@ -3,9 +3,9 @@ This app show weather based on location you type.
 It was made for education purpose.
 
 ## Installation
-		git clone https://github.com/JustAPhrog/weather-app.git
-		npm i
-		npm start
+	git clone https://github.com/JustAPhrog/weather-app.git
+	npm i
+	npm start
 
 # Changelog
 
